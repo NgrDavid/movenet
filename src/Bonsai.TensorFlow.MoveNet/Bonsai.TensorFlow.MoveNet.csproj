@@ -3,10 +3,7 @@
   <PropertyGroup>
     <Title>Bonsai - MoveNet Library</Title>
     <Description>Bonsai Library for real-time human pose estimation using MoveNet. TensorFlow 2.8.0 or compatible is required.</Description>
-    <PackageTags>Bonsai Rx MoveNet Pose Estimation</PackageTags>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <TargetFramework>net472</TargetFramework>
-    <VersionPrefix>0.1.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
